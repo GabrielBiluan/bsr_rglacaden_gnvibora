@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059441235708",
+    "project_id": "barangay-service-request-app",
+    "storage_bucket": "barangay-service-request-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059441235708:android:5d76d3ce588de62124e979",
+        "android_client_info": {
+          "package_name": "com.example.bsr_rglacaden_gnvibora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Z70ZzeeiWr7LMOsWeEr8SofX7Zkx1Iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
